@@ -1,5 +1,5 @@
 {
-    "name": "chessio/module-matomo",
+    "name": "zamu87/module-matomo",
     "description": "Matomo Analytics module for Magento 2",
     "type": "magento2-module",
     "license": [
